@@ -27,7 +27,7 @@ Time Spent: **9** hrs spent in total
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="walkthrough.gif" width=250><br>
 
 ### Notes
 This was my first time building an app that interacted with an API. One challenge was to understand how the RecylcerView is implemeted in the app. I used the resources available on codepath website to help guide me through the process. After completing this project I can confidently say I know how to interact with an API and implement an RecyclerView.
